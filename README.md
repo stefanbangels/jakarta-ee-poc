@@ -6,6 +6,8 @@ deployed as a WildFly 18 docker image.
 
 ## Prerequisites
 
+The following should be installed on your local development machine:
+
 * Java 11
 * Docker
 
