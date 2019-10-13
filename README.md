@@ -1,4 +1,4 @@
-# jakarta-ee-poc
+# Jakarta EE POC
 
 ## Prerequisites
 
