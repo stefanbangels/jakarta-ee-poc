@@ -11,7 +11,7 @@ import javax.ws.rs.core.Response;
 public class HelloWorldResource {
 
     @GET
-    public Response getAllUsers() {
+    public Response helloWorld() {
         return Response.ok("Hello World").build();
     }
 
