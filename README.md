@@ -1,5 +1,9 @@
 # Jakarta EE POC
 
+This repository is a simple Jakarta EE 8 POC, 
+built with Gradle, 
+deployed as a WildFly 18 docker image.
+
 ## Prerequisites
 
 * Java 11
